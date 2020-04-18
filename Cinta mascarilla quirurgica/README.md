@@ -5,3 +5,6 @@ La idea de este accesorio es poder facilitar al personal médico el uso de masca
 
 Original: https://www.thingiverse.com/thing:4249113
 Creador: Suraky
+
+Original 2: https://www.thingiverse.com/thing:4286171
+Original 3: https://www.thingiverse.com/thing:4273837
