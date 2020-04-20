@@ -4,6 +4,8 @@
 
 La idea de este accesorio es poder facilitar al personal médico el uso de mascarillas quirúrgicas durante mas tiempo si sufrir, ya que las gomas de fijación no irán en la parte trasera de las orejas, sino en sujetas con este accesorio.
 
+![ejemplo](./ejemplo.jpg)
+
 ### TAMAÑOS
 
 - XS 2 eslabones: **Surgical_Mask_Strap_XS.stl**
